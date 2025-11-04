@@ -31,7 +31,7 @@ Program diuji menggunakan **Postman**, dengan format request & response JSON.
 | 2 | `/api/auth/login` | POST | Login dan menghasilkan token JWT | ![Login](./output/login.png) |
 | 3 | `/api/attendance` | POST | Melakukan presensi pengguna | ![Presensi](./output/presensi.png) |
 | 4 | `/api/attendance/summary/1` | GET | Melihat rekap kehadiran bulanan | ![Rekap](./output/rekap.png) |
-| 4 | `/api/attendance/history/1` | GET | Melihat history kehadiran | ![History](./output/lihat%20riwayat.png) |
+| 5 | `/api/attendance/history/1` | GET | Melihat history kehadiran | ![History](./output/lihat%20riwayat.png) |
 
 ---
 
